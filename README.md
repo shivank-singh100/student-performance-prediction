@@ -76,7 +76,7 @@ Open `notebook/student_performance_prediction.ipynb` and run all cells.
 
 Run the notebook directly in your browser (no installation required):
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wxyuxUOJaaU_QHK6C3ZVLWUQuiqBA7Y1?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S834aSOvFCafNtLto4BE2zIl20BGxe4x?usp=sharing)
 
 ## 🔮 Future Improvements
 
