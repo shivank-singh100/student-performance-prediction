@@ -84,6 +84,10 @@ Run the notebook directly in your browser (no installation required):
 - Perform hyperparameter tuning.
 - Add more extensive feature engineering (e.g., binning parental education).
 
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions for further analysis or visualizations, please feel free to fork the repo and submit a pull request.
+
 ## ✍️ Author
 
 **Shivank Singh**
